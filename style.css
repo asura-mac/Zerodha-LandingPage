@@ -1,0 +1,57 @@
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    color: #666;
+    font-size: 0.9rem !important;
+    box-shadow: 2px 1px 2px #eee;
+    padding-left: 180px;
+    padding-right: 300px;
+}
+
+.logo {
+    height: 15px;
+    padding: 20px;
+}
+
+.landing {
+    display: flex;
+    justify-content: center;
+    padding-top: 45px;
+    font-size: 1rem;
+    font-weight: 100;
+}
+.textbox {
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer;
+    padding: 20px;
+}
+
+.text {
+    padding-left: 30px;
+}
+.bottom {
+    padding: 5%;
+    font-family: "Inter",serif;
+}
+button {
+    background-color: #387ed1;
+    color: #fff;
+    border: 1px solid rgba(0,0,0,0) !important;
+    border-radius: 3px;
+    font-size: 1.2rem;
+    line-height: 1.2rem;
+    display: inline-block;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 2.75rem;
+}
+
+h4 {
+    font-weight: 200;
+    font-size: 1.25rem;
+}
